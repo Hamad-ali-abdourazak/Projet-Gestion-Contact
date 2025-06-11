@@ -23,6 +23,6 @@ mysql -u ton_utilisateur -p nom_de_la_base < base_de_donnees/contact.sql
 ## Importer et lancer le projet Java dans NetBeans
 
 1. Cloner le dépôt GitHub  
-Ouvre un terminal et exécute :
+Ouvrez un terminal et exécute :
 
 git clone https://github.com/Hamad-ali-abdourazak/Projet-Gestion-Contact.git
