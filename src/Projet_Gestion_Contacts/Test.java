@@ -24,13 +24,13 @@ public class Test {
         ContactDao cdao=new ContactDao();
         
         Contact c=new Contact();
-        c.setNom("ali");
-        c.setPrenom("said");
+        c.setNom("Jean");
+        c.setPrenom("Paul");
         c.setEmail("@gmail.com");
         c.setFiliere("GI");
         
-        c.setAdresse("Q34");
-        c.setTelephone("66778899");
+        c.setAdresse("Cergy");
+        c.setTelephone("060099884");
         cdao.AjouterContact(c);
  
       
